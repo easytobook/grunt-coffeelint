@@ -36,7 +36,7 @@
     "grunt": "~0.4"
   },
   "dependencies": {
-    "coffeelint": "git://github.com/easytobook/coffeelint.git/#2efeae54e7a99a2bf1ca61f1e87300fe348f9a62"
+    "coffeelint": "git://github.com/clutchski/coffeelint.git/#c0de12af2ca395473f8c5f754f061a128adc7594"
   },
   "devDependencies": {
     "grunt": "~0.4",
